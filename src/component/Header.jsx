@@ -1,17 +1,17 @@
 import "../css/Header.css";
-// import bgimg from "../images/Rectangle 5.jpg";
+import bgimg from "../images/Rectangle 5.jpg";
 import girl from "../images/girl.png";
 import polygon from "../images/polygon.png";
 import logo from "../images/logo.png";
 import group9 from "../images/Group9.png";
 
-import { Icon } from "@iconify/react";
+
 
 export default function Header() {
   return (
     <div>
       <div className="header_main_container">
-        {/* <img src={bgimg} alt="background"/> */}
+        <img src={bgimg} alt="background"/>
         <div className="header_first_container">
           <div className="header_polygon_container">
             <img className="header_polygon" src={polygon} alt="polygon" />

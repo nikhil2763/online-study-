@@ -6,13 +6,10 @@
 .header_main_container {
   width: 100%;
   height: 100vh;
-  /* background-image: url('../images/Rectangle\ 5.jpg'); */
+  background-image: url('../images/Rectangle\ 5.jpg');
   border-bottom-left-radius: 400px;
   border-bottom-right-radius: 400px;
-  /* position: relative; */
-
-  /* display: flex; */
-  /* z-index: -1; */
+  
 }
 .header_first_container {
   display: flex;
@@ -21,9 +18,7 @@
   /* z-index: 3; */
   /* position: absolute; */
 }
-.header_polygon_container{
-  /* width: 30%; */
-}
+
 .header_polygon {
   position: absolute;
   z-index: 3;
