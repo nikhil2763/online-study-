@@ -1,0 +1,76 @@
+.theysay_main_container{
+    justify-content: center;
+    margin-top: 100px;
+    display: flex;
+    gap: 10rem;
+}
+.theysay_testinomial{
+    color: #5F5F7E;
+    display: flex;
+    width: fit-content;
+}
+hr{
+    width: 3rem;
+}
+.theysay_say{
+    color: #2F327D;
+    font-size: 30px;
+}
+.theysay_skillin{
+    color: #696984;
+}
+.theysay_icon{
+    /* border-radius: 80px;
+    color: #F48C06; */
+    justify-content: center;
+  
+    
+}
+.theysay_btn{
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* padding-right: 10px; */
+    
+    border-radius: 80px;
+    border:1px solid #F48C06;
+    background-color: white;
+    color: #F48C06;
+    
+}
+.theysay_icon_arrow{
+    /* margin-left: 20px; */
+    /* height: 50px; */
+    /* width: -100px; */
+    border-radius: 80px;
+    /* margin-right: -30px; */
+}
+.theysay_imageone{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    z-index: -2;
+}
+.imagediv_text{
+    font-family: 10px;
+    color: #5F5F7E;
+}
+.theysay_imagediv{
+    margin-top: 300px;
+    background-color: white;
+    margin-left: 100px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+.theysay_gloria{
+    color: #696984;
+}
+.theysay_div{
+    display: flex;
+}
+.star_image{
+    width: 200px;
+    height: 30px;
+    margin-left: 100px;
+}

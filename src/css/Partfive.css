@@ -1,0 +1,70 @@
+.partfive_main_container{
+    display: flex;
+    margin-top: 150px;
+    position: relative;
+    gap: 4rem;
+    /* margin: auto; */
+}
+.partfive_first_icon{
+    width: 50px;
+    height: 50px;
+    background-color: #F4B767;
+    color: #F4B767;
+    border-radius: 80px;
+    z-index: -2;
+    margin-left: 310px;
+    margin-top: -10px;
+    position: absolute;
+}
+.partfive_div_first{
+    /* margin: auto; */
+    margin-left: 330px;
+}
+.partfive_learn_more{
+    margin-top: 400px;
+}
+.partfive_div_first_first{
+    /* text-align: left; */
+    color: #2F327D;
+    font-family: 'poppins',serif;
+    font-size: 25px;
+}
+.partfive_div_first_first span{
+    color: #F48C06;
+}
+.partfive_div_first_second{
+   font-size: 14px;
+   /* position: absolute; */
+   margin-top: 10px;
+   color: #696984;
+   font-family: 'poppins',serif;
+}
+.partfive_div_first_third{
+    margin-top: 40px;
+    font-family: 'poppins',serif;
+    color: #696984;
+}
+
+.partfive_div_second_image{
+    /* position: relative; */
+    width: 400px;
+    height: 300px;
+    margin-left: 60px;
+}
+.partfive_second_icon{
+    position: absolute;
+    width: 200px;
+    margin-top: -20px;
+    color: #23BDEE;
+    height: 120px;
+    z-index: -1;
+}
+.partfive_third_icon{
+    position: absolute;
+    width: 270px;
+    margin-top: -180px;
+    margin-left: 250px;
+    color: #F3AC50;
+    height: 200px;
+    z-index: -1;
+}

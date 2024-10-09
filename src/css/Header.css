@@ -1,0 +1,186 @@
+
+.app {
+  /* height: 100vh; */
+  width: 100vw;
+}
+.header_main_container {
+  width: 100%;
+  height: 100vh;
+  background-image: url('D:\react projects\onlinestudy\src\images\Rectangle 5.jpg');
+  border-bottom-left-radius: 400px;
+  border-bottom-right-radius: 400px;
+  /* position: relative; */
+
+  /* display: flex; */
+  /* z-index: -1; */
+}
+.header_first_container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  /* z-index: 3; */
+  /* position: absolute; */
+}
+.header_polygon_container{
+  /* width: 30%; */
+}
+.header_polygon {
+  position: absolute;
+  z-index: 3;
+  height: 50px;
+  width: 50px;
+  /* color: aliceblue; */
+  left: 100px;
+  top: 50px;
+}
+.header_skyline {
+  position: absolute;
+  z-index: 3;
+  height: 50px;
+  width: 50px;
+  /* color: aliceblue; */
+  left: 110px;
+  top: 65px;
+  color: #113c49;
+  font-family: "popins", serif;
+}
+.header_link{
+  position: absolute;
+  z-index: 3;
+  /* width: 30%; */
+  margin-top: 10px;
+  white-space: nowrap;
+
+}
+.links {
+  display: flex;
+  list-style: none;
+  font-size: 15px;
+  gap: 1rem;
+  margin-top: 30px;
+  margin-left: 850px;
+  padding: 5px;
+  /* right: 100px; */
+  /* z-index: 3; */
+}
+.header_button{
+  position: absolute;
+  z-index: 3;
+  /* width: 40%; */
+  margin-top: 5px;
+  /* margin-right: 200px; */
+  display: flex;
+  gap: 2rem;
+  margin-left: 1100px;
+}
+
+.btn1 {
+  background-color: white;
+  border-radius: 80px;
+  font-size: 15px;
+  border: none;
+  line-height: 33px;
+  font-family: "poppins", serif;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.btn2 {
+  background-color: #f48c06;
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 80px;
+  border-radius: 80px;
+  font-family: "poppins", serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 40px;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+.header_text_container {
+  position: absolute;
+  z-index: 3;
+  /* display: flex; */
+  left: 7%;
+  font-size: 20px;
+  top: 30%;
+  gap: 10px;
+  color: #f48c06;
+}
+.header_text{
+  color:#2f327d ;
+}
+.header_text_second{
+  color:#2f327d  ;
+}
+/* .header_much_easier {
+  position: absolute;
+  z-index: 3;
+  top: 33%;
+  color: #2f327d;
+  margin-top: 10px;
+  left: 7%;
+  font-size: 30px;
+  font-family: "poppins", serif;
+} */
+.header_join_for_free {
+  position: absolute;
+  z-index: 3;
+  top: 55%;
+  left: 7%;
+  border-radius: 8px;
+  border: none;
+  padding: 10px;
+  background-color: #f48c06;
+  color: white;
+}
+.header_logo {
+  position: absolute;
+  z-index: 3;
+  left: 13%;
+  top: 52%;
+  height: 100px;
+  width: 100px;
+}
+.header_how_it_work {
+  position: absolute;
+  z-index: 3;
+  left: 20%;
+  top: 55%;
+  font-size: 14px;
+  font-family: "poppins", serif;
+}
+
+
+.header_info {
+  position: absolute;
+  z-index: 3;
+  left: 7%;
+  top: 40%;
+  font-size: 13px;
+  font-family: "Nunito Sans", serif;
+  color: #464646;
+}
+
+
+.header_girl {
+  position: absolute;
+  top: 20%;
+  left: 60%;
+  z-index: 7;
+  height: 80vh;
+  width: 30vw;
+  /* margin-bottom: 80px; */
+}
+.header_group9 {
+  position: absolute;
+  z-index: 3;
+  top: 37%;
+  left: 85%;
+  width: 80px;
+  height: 80px;
+}

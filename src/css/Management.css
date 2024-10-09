@@ -1,0 +1,24 @@
+.management_main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 7rem;
+}
+.management_image{
+    width: 600px;
+    height: 600px;
+}
+.management_first_div{
+    margin-left: 70px;
+    font-size: 30px;
+    margin-top: 200px;
+    color: #F48C06;
+    
+}
+.management_first_div span{
+    color:#2F327D ;
+}
+.management_text{
+    font-size: 15px;
+    color: #696984;
+}

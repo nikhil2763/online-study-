@@ -1,0 +1,106 @@
+.ourfeature_first_container{
+    /* margin: auto; */
+    text-align: center;
+    margin-top: 70px;
+    font-size: 30px;
+    color: #2F327D;
+}
+.ourfeature_first_container span{
+    color: #F48C06;
+}
+.ourfeature_text{
+    text-align: center;
+    color: #696984;
+    font-size: 20px;
+}
+.ourfeature_second_container{
+    display: flex;
+    /* margin-top:100px; */
+    /* gap: 3rem; */
+    /* text-align: center; */
+    align-items: center;
+    justify-content: center;
+    /* position: relative; */
+}
+.ourfeature_second_first_container{
+    width: 100px;
+    
+    height: 200px;
+    margin: auto;
+    margin-left: 200px;
+    position: relative;
+}
+.ourfeature_imageone{
+   width: 600px;
+   /* position: relative; */
+   height: 500px;
+
+}
+.ourfeature_icon_one{
+    width: 100px;
+    margin-left: 20px;
+    height: 200px;
+    color: #33EFA0;
+    background-color: #33EFA0;
+    border-radius: 80px;
+    margin-top: -50px;
+    position: absolute;
+    z-index: -1;
+}
+.ourfeature_icon_two{
+    width: 200px;
+    margin-left: 340px;
+    height: 200px;
+    color: #5B61EB;
+    background-color: #5B61EB;
+    border-radius: 100px;
+    margin-top: -200px;
+    position: absolute;
+    z-index: -1;
+}
+.ourfeature_second_second_container{
+    margin-right: 250px;
+    margin-top: 200px;
+}
+.ourfeature_second_second_first_container{
+    font-size: 30px;
+    color: #2F327D;
+}
+.ourfeature_second_second_first_container span{
+    color: #F48C06;
+}
+.ourfeature_second_second_second_container{
+    margin-top: 20px;
+    display: flex;
+    color: #696984;
+    gap: 3rem;
+}
+.ourfeature_second_second_second_container_imageone {
+    width: 20px;
+    height: 20px;
+    margin: auto;
+}
+.ourfeature_second_second_third_container{
+    margin-top: 20px;
+    color: #696984;
+    display: flex;
+    gap: 3rem;
+}
+.ourfeature_second_second_third_container_imagetwo{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    margin-left: -2px;
+}
+.ourfeature_second_second_fourth_container{
+    margin-top: 20px;
+    color: #696984;
+    display: flex;
+    gap: 3rem;
+}
+.ourfeature_second_second_fourth_container_imageuser{
+    width: 20px;
+    height: 20px;
+    margin: auto;
+    margin-left: -2px;
+}

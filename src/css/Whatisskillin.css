@@ -1,0 +1,42 @@
+.skillin_main_container{
+    /* padding-top: 10px; */
+    width: 100vw;
+    margin-top: 80px;
+    /* text-align: center; */
+ }
+.skillin_first_div{
+    text-align: center;
+    color: #2F327D;
+    font-size: 30px;
+}
+.skillin_first_div span{
+    color: #F48C06;
+}
+
+.skillin_second_div{
+    text-align: center;
+    width: 38%;
+    padding-top: 30px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-family: 'poppins',serif;
+    color: #696984;
+    /* font-size: 10px; */
+
+}
+.skillin_third_div{
+    display: flex;
+    margin: auto;
+    width: 50%;
+    margin-top: 50px;
+    gap: 4rem;
+}
+.skillin_image_one{
+    width: 350px;
+    height: 300px;
+}
+.skillin_image_two{
+    width: 350px;
+    height: 300px;
+}

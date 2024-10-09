@@ -1,0 +1,19 @@
+.companyicon_main{
+    margin-top: 10%;
+}
+.companyicon_company{
+    margin: auto;
+    text-align: center;
+    font-family: 'poppins',serif;
+}
+.companyicon_images{
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+    margin-top: 50px;
+    justify-content: center;
+}
+.companyicon_google{
+    width: 70px;
+    height: 30px;
+}

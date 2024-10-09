@@ -1,0 +1,28 @@
+.tools_main_container{
+    margin-top: 300px;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    gap: 10rem;
+    
+    
+}
+.tools_first_container{
+    /* text-align: center; */
+    font-size: 30px;
+    margin-top: 230px;
+    color:#F48C06 ;
+}
+.tools_first_container span{
+    color: #2F327D;
+}
+
+.tools_image_main{
+    width: 500px;
+    height: 500px;
+}
+.tools_text{
+    color: #696984;
+    font-size: 15px;
+    margin-top: 30px;
+}

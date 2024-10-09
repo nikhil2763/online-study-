@@ -1,0 +1,23 @@
+.assisment_main{
+    margin-top: 150px;
+    display: flex;
+    gap: 7rem;
+    justify-content: center;
+}
+.assismemt_image{
+    width: 500px;
+    height: 500px;
+}
+.assisment_second_div{
+    font-size: 30px;
+    color: #2F327D;
+    margin-top: 50px;
+}
+.assisment_second_div  span{
+    color: #F48C06;
+}
+.assisment_text{
+    font-size: 15px;
+    color: #696984;
+    margin-top: 30px;
+}

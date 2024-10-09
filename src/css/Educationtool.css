@@ -1,0 +1,64 @@
+.education_main_container{
+    margin-top: 100px;
+    display: flex;
+    gap: 10rem;
+    justify-content: center;
+}
+.education_main{
+    /* margin-top: 100px; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+.education_first_div{
+    display: flex;
+    /* justify-content: center;
+    align-items: center;
+    text-align: center; */
+}
+.education_iconone{
+    width: 200px;
+    height: 150px;
+    color: #2F327D;
+}
+.education_onedrive{
+    font-size: 40px;
+    margin-top: -15px;
+    color: #2F327D;
+}
+.education_drive{
+    display: flex;
+    gap:3rem;
+}
+.education_integration{
+    display: flex;
+    width: fit-content;
+    font-family: 'poppins',serif;
+    color: #525596;
+}
+hr{
+    width: 2rem;
+}
+.education_platform{
+    margin-top: 20px;
+    font-size: 25px;
+    color: #2F327D;
+
+}
+.education_text{
+    font-size: 10px;
+    color: #525596;
+}
+.education_btn{
+    
+    padding-top: 10px;
+    padding-left: 20px;
+    padding-bottom: 10px; 
+    padding-right: 20px;
+    border-radius: 80px;
+    border: 1px solid #F48C06;
+    color: #F48C06;
+    background-color: white;
+}
+.education_button{
+    margin-top: 30px;
+}
